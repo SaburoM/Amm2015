@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- 	<title>-Pan's Labyrinth-</title>
+ 	<title>-Pan's Labyrinth- Home</title>
  	<meta name=author content="Andrea Menneas">
  	<meta name=”description” content="Mini sito dedicato alle opere del cineasta messicano Guillermo del Toro">
  	<meta name=”keywords” content="guillermo del toro il labirinto del fauno pacifc rim hellboy the golden army p.t. cinema film">
@@ -16,10 +16,10 @@
 		<h2>Mini sito dedicato alle opere di Guillermo del Toro</h2>
 	</header>
 	<nav>
-		<a href="/">Home</a> |
+		<a href="index">Home</a> |
 		<a href="illabirintodelfauno.html">Il Labirinto del Fauno</a> |
- 		<a href="DA MODIFICARE">Pacific Rim</a> |
- 		<a href="DA MODIFICARE">Hellboy</a> |
+ 		<a href="pacificrim.html">Pacific Rim</a> |
+ 		<a href="hellboy.html">Hellboy</a> |
  		<a href="DA MODIFICARE">Hellboy: The Golden Army</a> |
  		<a href="DA MODIFICARE">P.T. (Playable Teaser)</a>
 	</nav>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ 	<title>-Pan's Labyrinth- Hellboy</title>
+ 	<meta name=author content="Andrea Menneas">
+ 	<meta name=”description” content="Mini sito dedicato alle opere del cineasta messicano Guillermo del Toro">
+ 	<meta name=”keywords” content="guillermo del toro il labirinto del fauno pacifc rim hellboy the golden army p.t. cinema film">
+ 	<link rel="shortcut icon" type="image/x-icon" href="file:///home/amm/development/Andre/Amm2015/pl.jpg">
+ 	<link rel="stylesheet" href="stile_pagine.css">
+</head>
+<body>
+	<header>
+    	<h1>-Pan's Labyrinth-</h1>
+		<h2>Mini sito dedicato alle opere di Guillermo del Toro</h2>
+	</header>
+	<nav>
+		<a href="index">Home</a> |
+		<a href="illabirintodelfauno.html">Il Labirinto del Fauno</a> |
+ 		<a href="pacificrim.html">Pacific Rim</a> |
+ 		<a href="hellboy.html">Hellboy</a> |
+ 		<a href="hellboygoldenarmy.html">Hellboy: The Golden Army</a> |
+ 		<a href="DA MODIFICARE">P.T. (Playable Teaser)</a>
+	</nav>
+	<h3>Pacific Rim (2004)</h3>
+		<p><ul type=”disc”>
+  		<li><b>Genere:</b> orrore, fantastico</li>
+  		<li><b>Durata:</b> 122 minuti</li>
+  		<li><b>Riconoscimenti:</b> 4 nomination ai Saturn Awards 2005 per milgior film fantastico, migliori costumi (Wendy Partridge), migliore 		edizione speciale in DVD e vincitore del miglior trucco (Jake Garber, Matt Rose e Mike Elizalde)</p>
+	<h4>Trama</h4>
+		<p>Nato dalle fiamme dell'inferno durante la Seconda guerra mondiale, Hellboy è stato chiamato sulla Terra a commettere il male dal 		malefico Grigori Rasputin. Destinato ad essere il presagio vivente dell'Apocalisse, Hellboy è stato salvato dal professor Broom, capo 			delle forze alleate e fondatore dell'Ufficio segreto per la ricerca sul paranormale e la difesa. Il professore lo ha allevato come un 			figlio e lo ha aiutato a sviluppare i suoi straordinari poteri paranormali. Nonostante le sue origini oscure, Hellboy è diventato così 			un'incredibile forza del bene, in lotta contro le entità malvagie che minacciano il mondo... </p> 
+	<h5>Trailer italiano del film</h5>
+	<iframe width="480" height="345"
+	src="http://www.youtube.com/embed/2f_7Nc9hWqQ">
+</iframe>	
+<p><a href="http://www.amazon.it/Hellboy-Silver-Collection-Karel-Roden/dp/B0041KW56M/ref=sr_1_2?ie=UTF8&qid=1455819422&sr=8-2">-Acquista il Blu-ray su Amazon-</a></p>
+
+	<footer>Creato da Andrea Menneas | <a href="mailto:a.menneas@gmail.com?subject=Pan's Labyrinth">
+ Contatto |</a> Login </footer>
+</html>

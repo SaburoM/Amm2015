@@ -15,11 +15,10 @@ nav {
     float:top;
     padding:5px;
 }
-
-article {
-    color:black;
-    background-color: #FFFFFF;
+article{
+	float: left;
 }
+
 footer {
 	background-color: #009999;
 	float: bottom;
