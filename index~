@@ -11,22 +11,24 @@
  	<link rel="stylesheet" href="stile_home.css">
 </head>
 <body>
-    <header>
-		<h1>-Pan's Labyrinth-</h1>
-		<h2>Mini sito dedicato alle opere di Gulliermo del Toro</h2>
+	<header>
+    	<h1>-Pan's Labyrinth-</h1>
+		<h2>Mini sito dedicato alle opere di Guillermo del Toro</h2>
 	</header>
 	<nav>
-		<a href="DA MODIFICARE" target="_blank">Il Labirinto del Fauno</a> |
- 		<a href="DA MODIFICARE" target="_blank">Pacific Rim</a> |
- 		<a href="DA MODIFICARE" target="_blank">Hellboy</a> |
- 		<a href="DA MODIFICARE" target="_blank">Hellboy: The Golden Army</a> |
- 		<a href="DA MODIFICARE" target="_blank">P.T. (Playable Teaser)</a>
+		<a href="/">Home</a> |
+		<a href="illabirintodelfauno.html">Il Labirinto del Fauno</a> |
+ 		<a href="DA MODIFICARE">Pacific Rim</a> |
+ 		<a href="DA MODIFICARE">Hellboy</a> |
+ 		<a href="DA MODIFICARE">Hellboy: The Golden Army</a> |
+ 		<a href="DA MODIFICARE">P.T. (Playable Teaser)</a>
 	</nav>
-	<article>
-	<h3>Questo sito raccoglie alcune informazioni sulle opere cinematografiche del maestro del Toro, assieme a un piccolo omaggio all'ormai perduto P.T.
-	Ho incluso solo i dettagli base di ogni film per evitare eventuali spoiler, quindi vedete il tutto come una piccola piattaforma di lancio per
-	iniziare a vedere le rispettive opere. Cliccate sui link per passare di pagina in pagina, e godetevi la visita!</h3>
-	</article>
+	<h3>Questo sito raccoglie alcune informazioni sulle opere cinematografiche del maestro del Toro, assieme a un piccolo omaggio all'ormai  perduto P.T. Ho incluso solo i dettagli base di ogni film per evitare eventuali spoiler, quindi vedete il tutto come una piccola piattaforma di lancio per iniziare a vedere le rispettive opere. Cliccate sui link per passare di pagina in pagina, e godetevi la visita!</h3>
+	<br />
+	<a class="twitter-timeline" href="https://twitter.com/RealGDT" data-widget-id="700263194623877120">Tweet di @RealGDT</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	<dive title="Link alla pagina Facebook uficiale di del Toro!"><a href="https://www.facebook.com/REALGDT/"><img src="guillermo-del-toro.jpg" alt="Foto del cineasta messicano e link alla pagina Facebook" style="width:600;height:400px;"></div>
+	
 	<footer>Creato da Andrea Menneas | <a href="mailto:a.menneas@gmail.com?subject=Pan's Labyrinth">
  Contatto |</a> Login </footer>
 </html>
