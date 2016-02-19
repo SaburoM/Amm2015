@@ -7,8 +7,8 @@
  	<meta name=author content="Andrea Menneas">
  	<meta name=”description” content="Mini sito dedicato alle opere del cineasta messicano Guillermo del Toro">
  	<meta name=”keywords” content="guillermo del toro il labirinto del fauno pacifc rim hellboy the golden army p.t. cinema film">
- 	<link rel="shortcut icon" type="image/x-icon" href="file:///home/amm/development/Andre/Amm2015/Immagini/pl.jpg">
- 	<link rel="stylesheet" href="file:///home/amm/development/Andre/Amm2015/CSS/stile_pagine.css">
+ 	<link rel="shortcut icon" type="image/x-icon" href="file:///home/amm/development/Andre/Amm2015/pl.jpg">
+ 	<link rel="stylesheet" href="CSS/stile_pagine.css">
 </head>
 <body>
 	<header>
@@ -16,12 +16,13 @@
 		<h2>Mini sito dedicato alle opere di Guillermo del Toro</h2>
 	</header>
 	<nav>
-		<a href="file:///home/amm/development/Andre/Amm2015/index.php">Home</a> |
-		<a href="file:///home/amm/development/Andre/Amm2015/HTML/illabirintodelfauno.html">Il Labirinto del Fauno</a> |
- 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/pacificrim.html">Pacific Rim</a> |
- 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/hellboy.html">Hellboy</a> |
- 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/hellboygoldenarmy.html">Hellboy: The Golden Army</a> |
- 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/pt.html">P.T. (Playable Teaser)</a>
+		<a href="index.html">Home</a> |
+		<a href="illabirintodelfauno.html">Il Labirinto del Fauno</a> |
+ 		<a href="pacificrim.html">Pacific Rim</a> |
+ 		<a href="hellboy.html">Hellboy</a> |
+ 		<a href="hellboygoldenarmy.html">Hellboy: The Golden Army</a> |
+ 		<a href="pt.html">P.T. (Playable Teaser)</a> |
+ 		<a href="extra_foto.html">Extra!</a>
 	</nav>
 	<h3>Pacific Rim (2013)</h3>
 		<p><b>Genere:</b> fantascienza, azione, avventura<br/>
@@ -36,5 +37,5 @@
 <p><a href="http://www.amazon.it/Pacific-Rim-Blu-Ray-Charlie-Day/dp/B00FF4NBDO/ref=sr_1_1?ie=UTF8&qid=1455818363&sr=8-1">-Acquista il Blu-ray su Amazon-</a></p>
 
 	<footer>Creato da Andrea Menneas | <a href="mailto:a.menneas@gmail.com?subject=Pan's Labyrinth">
- Contatto</footer>
+ Contatto |</a> Login </footer>
 </html>

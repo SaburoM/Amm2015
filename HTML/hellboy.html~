@@ -8,7 +8,7 @@
  	<meta name=”description” content="Mini sito dedicato alle opere del cineasta messicano Guillermo del Toro">
  	<meta name=”keywords” content="guillermo del toro il labirinto del fauno pacifc rim hellboy the golden army p.t. cinema film">
  	<link rel="shortcut icon" type="image/x-icon" href="file:///home/amm/development/Andre/Amm2015/Immagini/pl.jpg">
- 	<link rel="stylesheet" href="stile_pagine.css">
+ 	<link rel="stylesheet" href="file:///home/amm/development/Andre/Amm2015/CSS/stile_pagine.css">
 </head>
 <body>
 	<header>
@@ -36,5 +36,5 @@
 <p><a href="http://www.amazon.it/Hellboy-Silver-Collection-Karel-Roden/dp/B0041KW56M/ref=sr_1_2?ie=UTF8&qid=1455819422&sr=8-2">-Acquista il Blu-ray su Amazon-</a></p>
 
 	<footer>Creato da Andrea Menneas | <a href="mailto:a.menneas@gmail.com?subject=Pan's Labyrinth">
- Contatto |</a> Login </footer>
+ Contatto</footer>
 </html>
