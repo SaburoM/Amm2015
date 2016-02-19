@@ -17,7 +17,7 @@
 		<h2>Mini sito dedicato alle opere di Guillermo del Toro</h2>
 	</header>
 	<nav>
-		<a href="index.html">Home</a> |
+		<a href="index">Home</a> |
 		<a href="illabirintodelfauno.html">Il Labirinto del Fauno</a> |
  		<a href="pacificrim.html">Pacific Rim</a> |
  		<a href="hellboy.html">Hellboy</a> |
