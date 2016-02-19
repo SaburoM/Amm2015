@@ -7,8 +7,8 @@
  	<meta name=author content="Andrea Menneas">
  	<meta name=”description” content="Mini sito dedicato alle opere del cineasta messicano Guillermo del Toro">
  	<meta name=”keywords” content="guillermo del toro il labirinto del fauno pacifc rim hellboy the golden army p.t. cinema film">
- 	<link rel="shortcut icon" type="image/x-icon" href="Immagini/pl.jpg">
- 	<link rel="stylesheet" href="CSS/stile_home.css">
+ 	<link rel="shortcut icon" type="image/x-icon" href="file:///home/amm/development/Andre/Amm2015/Immagini/pl.jpg">
+ 	<link rel="stylesheet" href="file:///home/amm/development/Andre/Amm2015/CSS/stile_home.css">
 </head>
 <body>
 	
@@ -17,12 +17,12 @@
 		<h2>Mini sito dedicato alle opere di Guillermo del Toro</h2>
 	</header>
 	<nav>
-		<a href="index.html">Home</a> |
-		<a href="HTML/illabirintodelfauno.html">Il Labirinto del Fauno</a> |
- 		<a href="HTML/pacificrim.html">Pacific Rim</a> |
- 		<a href="HTML/hellboy.html">Hellboy</a> |
- 		<a href="HTML/hellboygoldenarmy.html">Hellboy: The Golden Army</a> |
- 		<a href="HTML/pt.html">P.T. (Playable Teaser)</a>
+		<a href="file:///home/amm/development/Andre/Amm2015/index.php">Home</a> |
+		<a href="file:///home/amm/development/Andre/Amm2015/HTML/illabirintodelfauno.html">Il Labirinto del Fauno</a> |
+ 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/pacificrim.html">Pacific Rim</a> |
+ 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/hellboy.html">Hellboy</a> |
+ 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/hellboygoldenarmy.html">Hellboy: The Golden Army</a> |
+ 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/pt.html">P.T. (Playable Teaser)</a>
 	</nav>
 	<h3>Questo sito raccoglie alcune informazioni sulle opere cinematografiche del maestro del Toro, assieme a un piccolo omaggio all'ormai  		perduto P.T. Ho incluso solo i dettagli base di ogni film per evitare eventuali spoiler, quindi vedete il tutto come una piccola piattaforma 		di lancio per iniziare a vedere le rispettive opere. Cliccate sui link per passare di pagina in pagina, e godetevi la visita!</h3>
 	<br />
@@ -31,5 +31,5 @@
 	<dive title="Link alla pagina Facebook uficiale di del Toro!"><a href="https://www.facebook.com/REALGDT/"><img src="Immagini/guillermo-del-toro.jpg" 	alt="Foto del cineasta messicano e link alla pagina Facebook" style="width:600;height:400px;"></a></div>
 	
 	<footer>Creato da Andrea Menneas | <a href="mailto:a.menneas@gmail.com?subject=Pan's Labyrinth">
- Contatto </a></footer>
+ Contatto |</a> <a href="View/login.php">Login</a> </footer>
 </html>
