@@ -16,12 +16,12 @@
 		<h2>Mini sito dedicato alle opere di Guillermo del Toro</h2>
 	</header>
 	<nav>
-		<a href="index.php">Home</a> |
-		<a href="HTML/illabirintodelfauno.html">Il Labirinto del Fauno</a> |
- 		<a href="HTML/pacificrim.html">Pacific Rim</a> |
- 		<a href="HTML/hellboy.html">Hellboy</a> |
- 		<a href="HTML/hellboygoldenarmy.html">Hellboy: The Golden Army</a> |
- 		<a href="HTML/pt.html">P.T. (Playable Teaser)</a>
+		<a href="file:///home/amm/development/Andre/Amm2015/index.php">Home</a> |
+		<a href="file:///home/amm/development/Andre/Amm2015/HTML/illabirintodelfauno.html">Il Labirinto del Fauno</a> |
+ 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/pacificrim.html">Pacific Rim</a> |
+ 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/hellboy.html">Hellboy</a> |
+ 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/hellboygoldenarmy.html">Hellboy: The Golden Army</a> |
+ 		<a href="file:///home/amm/development/Andre/Amm2015/HTML/pt.html">P.T. (Playable Teaser)</a>
 	</nav>
 	<h3>Hellboy (2004)</h3>
 		<p><b>Genere:</b> orrore, fantastico<br/>
