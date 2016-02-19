@@ -20,7 +20,8 @@
                             $_SESSION["nome_utente"]=$_REQUEST['nome_utente'];
                             $_SESSION["password"]=$_REQUEST['password'];                        
                             if($row[2]==1)
-                                $_SESSION["admin"]=true;                           
+                                $_SESSION["admin"]=true;  
+                                include 'Extra.html';                         
                         }
                     }                    
                 }

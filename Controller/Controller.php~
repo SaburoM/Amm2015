@@ -15,19 +15,17 @@
                 $risultato=$this->model->login();
                 if($risultato != "Errore!"){
                     while($row=$risultato->fetch_row()){
-                        if(($_REQUEST['username']==$row[0]) && ($_REQUEST['password']==$row[1])){
-                            $_SESSION["Login"]=true;
-                            $_SESSION["username"]=$_REQUEST['username'];
+                        if(($_REQUEST['nome_utente']==$row[0]) && ($_REQUEST['password']==$row[1])){
+                            $_SESSION["login"]=true;
+                            $_SESSION["nome_utente"]=$_REQUEST['nome_utente'];
                             $_SESSION["password"]=$_REQUEST['password'];                        
                             if($row[2]==1)
-                                $_SESSION["adm"]=true; 
-                            include 'Viewer/loginSucc.php';                            
+                                $_SESSION["admin"]=true;                           
                         }
                     }                    
                 }
                 else
-                    include 'Viewer/loginTry.php';
+                    include 'Viewer/login.php';
             }
       }
-      public function account(){
-      		if 
+     }
